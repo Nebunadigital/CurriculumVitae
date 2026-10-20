@@ -8,6 +8,10 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "curriculumvitae",
   "compatibility_date": "2026-07-19",
+  "routes": [
+    { "pattern": "bastiansandoval.cl", "custom_domain": true },
+    { "pattern": "www.bastiansandoval.cl", "custom_domain": true }
+  ],
   "observability": {
     "enabled": true
   },
