@@ -12,7 +12,7 @@ const es = {
   meta: {
     title: 'Bastián Sandoval — Desarrollador web full-stack en Chile',
     description:
-      'Desarrollador web full-stack en Santiago. Cofundador de Nebuna (nebuna.cl): páginas web y menús digitales para emprendedores. E-commerce y apps a medida.',
+      'Desarrollador web full-stack en Santiago. Cofundador de Nebuna (nebunadigital.cl): páginas web y menús digitales para emprendedores. E-commerce y apps a medida.',
   },
   nav: {
     about: 'Sobre mí',
@@ -126,12 +126,12 @@ const es = {
           'Integraciones y procesos que ahorran horas de trabajo: importación de datos, generación de documentos, correos automáticos y reportes.',
       },
     ],
-    // Enlaces a las páginas de servicio con precio (public/*.html)
+    // Enlaces a las páginas de servicio (public/*.html)
     offersHeading: 'Para emprendimientos y locales de comida',
     offersCta: 'Ver qué incluye →',
     offers: [
-      { name: 'Página web para tu emprendimiento', price: 'Desde $69.990 + IVA', href: 'https://nebuna.cl/paginas-web-emprendedores' },
-      { name: 'Menú digital con pedidos por WhatsApp', price: 'Desde $89.990 + IVA', href: 'https://nebuna.cl/menu-digital-restaurantes' },
+      { name: 'Página web para tu emprendimiento', href: 'https://nebunadigital.cl/paginas-web-emprendedores' },
+      { name: 'Menú digital con pedidos por WhatsApp', href: 'https://nebunadigital.cl/menu-digital-restaurantes' },
     ],
   },
   projects: {
@@ -340,8 +340,8 @@ const es = {
     // Enlaces del pie: llevan a las páginas de servicio y al blog desde todo el sitio
     linksLabel: 'Más páginas del sitio',
     links: [
-      { label: 'Páginas web', href: 'https://nebuna.cl/paginas-web-emprendedores' },
-      { label: 'Menú digital', href: 'https://nebuna.cl/menu-digital-restaurantes' },
+      { label: 'Páginas web', href: 'https://nebunadigital.cl/paginas-web-emprendedores' },
+      { label: 'Menú digital', href: 'https://nebunadigital.cl/menu-digital-restaurantes' },
       { label: 'Notas técnicas', href: '/blog/' },
       { label: 'Portafolio', href: '/' },
     ],
@@ -353,7 +353,7 @@ const en: typeof es = {
   meta: {
     title: 'Bastián Sandoval — Full-stack web developer in Chile',
     description:
-      'Full-stack web developer in Santiago, Chile. Co-founder of Nebuna (nebuna.cl): websites and digital menus for small businesses. E-commerce and custom apps.',
+      'Full-stack web developer in Santiago, Chile. Co-founder of Nebuna (nebunadigital.cl): websites and digital menus for small businesses. E-commerce and custom apps.',
   },
   nav: {
     about: 'About',
@@ -464,8 +464,8 @@ const en: typeof es = {
     offersHeading: 'For small businesses and restaurants in Chile',
     offersCta: "See what's included (in Spanish) →",
     offers: [
-      { name: 'A website for your small business', price: 'From CLP 69,990 + VAT', href: 'https://nebuna.cl/paginas-web-emprendedores' },
-      { name: 'Digital menu with WhatsApp orders', price: 'From CLP 89,990 + VAT', href: 'https://nebuna.cl/menu-digital-restaurantes' },
+      { name: 'A website for your small business', href: 'https://nebunadigital.cl/paginas-web-emprendedores' },
+      { name: 'Digital menu with WhatsApp orders', href: 'https://nebunadigital.cl/menu-digital-restaurantes' },
     ],
   },
   projects: {
@@ -671,8 +671,8 @@ const en: typeof es = {
     sendEmail: 'Send via email',
     linksLabel: 'More pages on this site',
     links: [
-      { label: 'Web pages (ES)', href: 'https://nebuna.cl/paginas-web-emprendedores' },
-      { label: 'Digital menu (ES)', href: 'https://nebuna.cl/menu-digital-restaurantes' },
+      { label: 'Web pages (ES)', href: 'https://nebunadigital.cl/paginas-web-emprendedores' },
+      { label: 'Digital menu (ES)', href: 'https://nebunadigital.cl/menu-digital-restaurantes' },
       { label: 'Tech notes', href: '/blog/' },
       { label: 'Portfolio', href: '/' },
     ],

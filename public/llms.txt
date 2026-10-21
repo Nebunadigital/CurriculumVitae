@@ -1,13 +1,13 @@
 # Bastián Sandoval
 
-> Desarrollador web full-stack en Santiago, Chile, y cofundador de Nebuna (nebuna.cl), que crea páginas web para emprendedores y menús digitales con pedidos por WhatsApp. Además trabaja en e-commerce (WooCommerce) y aplicaciones a medida.
+> Desarrollador web full-stack en Santiago, Chile, y cofundador de Nebuna (nebunadigital.cl), que crea páginas web para emprendedores y menús digitales con pedidos por WhatsApp. Además trabaja en e-commerce (WooCommerce) y aplicaciones a medida.
 
 ## Servicios para emprendedores (Nebuna)
 
-- [Nebuna](https://nebuna.cl/): páginas web y menús digitales con pedidos por WhatsApp, con precios en pesos chilenos más IVA y factura.
-- [Páginas web para emprendedores](https://nebuna.cl/paginas-web-emprendedores): tres planes desde $69.990 + IVA.
-- [Menú digital para restaurantes](https://nebuna.cl/menu-digital-restaurantes): carta online con pedidos por WhatsApp, sin apps ni comisiones; tres planes desde $89.990 + IVA.
-- [¿Cuánto cuesta una página web en Chile en 2026?](https://nebuna.cl/blog/cuanto-cuesta-una-pagina-web-chile)
+- [Nebuna](https://nebunadigital.cl/): páginas web y menús digitales con pedidos por WhatsApp.
+- [Páginas web para emprendedores](https://nebunadigital.cl/paginas-web-emprendedores): página web con distintos planes a medida.
+- [Menú digital para restaurantes](https://nebunadigital.cl/menu-digital-restaurantes): carta online con pedidos por WhatsApp, sin apps ni comisiones.
+- [¿Cuánto cuesta una página web en Chile en 2026?](https://nebunadigital.cl/blog/cuanto-cuesta-una-pagina-web-chile)
 
 ## Portafolio y blog
 

@@ -86,7 +86,7 @@ rutas relativas y el preview sale sin imagen.
 ## Notas
 
 - Las capturas de los sitios se tomaron en julio 2026 (motorman.cl, yanmaq.cl,
-  nebuna.cl, motormaq.cl, portal en Railway y apps locales). Para actualizarlas,
+  nebuna.cl (tienda), motormaq.cl, portal en Railway y apps locales). Para actualizarlas,
   reemplaza los archivos en `public/img/shots/` manteniendo los nombres.
 - La tarjeta "Motorman · Kubota" muestra el rediseño (carpeta local
   `motoreskubota`), publicado en https://motoreskubota.cl.

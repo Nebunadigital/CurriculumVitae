@@ -14,7 +14,7 @@ export default defineConfig({
   },
   build: {
     // La home es la única entrada (su prerender está en scripts/prerender.mjs).
-    // Las páginas de servicio viven ahora en nebuna.cl.
+    // Las páginas de servicio viven ahora en nebunadigital.cl.
     rollupOptions: {
       input: {
         main: page('./index.html'),
